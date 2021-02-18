@@ -1,5 +1,6 @@
-Team: GenXcoders  
-# Team-Leader: Mohammed Imran Mohsin 
+# Team: GenXcoders  
 
-Topic: Storage Eth IPFS Template
+## Team-Leader: Mohammed Imran Mohsin 
+
+### Topic: Storage Eth IPFS Template
 
